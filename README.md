@@ -1,3 +1,16 @@
+# ESP32IGate V0.7
+-Expand  wifi ssid to 32byte,password to 63byte
+
+-Add/Edit Time Zone in configuration
+
+-Add VPN Wireguard
+
+Source Code in github 
+https://github.com/nakhonthai/ESP32IGate
+
+## Firmware Release 
+https://github.com/nakhonthai/ESP32IGate/releases/tag/V0.7
+
 # ESP32IGate Simple Project
 
 ESP32IGate is a Internet Gateway + TNC Built in that is implemented for Espressif ESP32 processor.
